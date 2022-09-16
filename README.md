@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anilozgok&theme=dark&border_radius=4)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anilozgok&theme=dark&border_radius=4)](https://git.io/streak-stats) -->
 
 <h3 align="left">Languages and Tools:</h3>
 
