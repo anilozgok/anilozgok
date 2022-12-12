@@ -53,3 +53,7 @@
   
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilozgok&show_icons=true&locale=en" alt="anilozgok" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilozgok&" alt="anilozgok" /></p>
+
