@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anıl Can Ozgok</h1>
 
-<h3 align="center">Back-end developer from Turkey. I'm currently learnin Docker.</h3>
+<h3 align="center">Back-end developer from Turkey.</h3>
+<h3 align="center">I'm currently learning Spring and Docker.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
