@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anıl Can Ozgok</h1>
 
-<h3 align="center">Back-end developer from Turkey.</h3>
+<h3 align="center">A Passionate Software Engineer from Turkey. I'm currently working on Reactive Artchitecture, Microservices and Distributed Systems.</h3>
 <!--- <h3 align="center">I'm currently working on Docker and Distributed Systems.</h3> --->
 
 <h3 align="left">Connect with me:</h3>
