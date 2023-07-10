@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anıl Can Ozgok</h1>
+<h1 align="center">Hi 👋, It is your friendly neighborhood Anıl Can!. </h1>
 
-<h3 align="center">I'm a Software Engineer from Turkey whose mainly focused on backend developement. I'm currently working on Reactive Artchitecture, Microservices and Distributed Systems.</h3>
+<h3 align="center">I'm a Software Engineer from Turkey. My primary area of focus is backend technologies. Currently learning GoLang and k8s. Also interested in Reactive Architecture, and Distributed Systems.</h3>
 <!--- <h3 align="center">I'm currently working on Docker and Distributed Systems.</h3> --->
 
 <h3 align="left">Connect with me:</h3>
@@ -25,6 +25,17 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
+
+<!--- GoLang -->
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a> 
+
+<!--- K8s -->
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  </a>
+
 
   <!--- Postgres -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
@@ -62,8 +73,4 @@
   </a> 
   
 </p>
-
-<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilozgok&show_icons=true&locale=en" alt="anilozgok" /></p> --> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilozgok&" alt="anilozgok" /></p>
 
