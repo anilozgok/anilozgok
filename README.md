@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It is your friendly neighborhood Anıl Can! </h1>
 
-<h3 align="center">I'm a Software Engineer from Turkey. My primary area of focus is backend technologies. Currently learning GoLang and k8s. Also interested in Reactive Architecture, and Distributed Systems.</h3>
+<h3 align="center">I'm a Software Engineer from Turkey. My primary area of focus is backend technologies. Currently learning GoLang and k8s.</h3>
 <!--- <h3 align="center">I'm currently working on Docker and Distributed Systems.</h3> --->
 
 <h3 align="left">Connect with me:</h3>
