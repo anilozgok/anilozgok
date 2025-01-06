@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, It is your friendly engineer Anıl Can! </h1>
+<h1 align="center">Hello 👋, This is Anıl Can! </h1>
 
-<h3 align="center">I'm a Software Engineer from Turkey. My primary area of focus is backend technologies. Currently learning GoLang and k8s.</h3>
+<h3 align="center">I'm a Platform/Software Engineer from Turkey. My primary area of focus is platform and backend technologies.</h3>
 <!--- <h3 align="center">I'm currently working on Docker and Distributed Systems.</h3> --->
 
 <h3 align="left">Connect with me:</h3>
